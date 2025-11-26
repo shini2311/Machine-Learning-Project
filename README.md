@@ -87,28 +87,8 @@ Type of Problem: Supervised Classification</p>
     • ROC-AUC
 </ol>
 <b>Performance Summary</b>
-<!DOCTYPE html>
+
 <html>
-<head>
-  <style>
-    table {
-      border-collapse: collapse; /* No borders */
-      width: 80%;
-      margin: 20px 0;
-      font-family: Arial, sans-serif;
-    }
-    th, td {
-      padding: 8px 12px;
-      text-align: left;
-    }
-    th {
-      background-color: lightgreen; /* Optional header background */
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9; /* Optional striped effect */
-    }
-  </style>
-</head>
 <body>
   <h2>Model Performance Metrics</h2>
   <table>
