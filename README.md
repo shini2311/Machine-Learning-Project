@@ -90,7 +90,6 @@ Type of Problem: Supervised Classification</p>
 
 <html>
 <body>
-  <h2>Model Performance Metrics</h2>
   <table>
     <tr>
       <th>Model</th>
@@ -127,3 +126,23 @@ Type of Problem: Supervised Classification</p>
   </table>
 </body>
 </html>
+<b>Best Model: </b> Random Forest Classifier – highest accuracy and balanced precision/recall.
+<h2>8. Conclusion and Recommendations</h2>
+<ol>
+  
+    • The Random Forest model can reliably predict CKD with 92% accuracy.
+
+    • Early detection using this model can assist healthcare providers in preventive care.
+
+<b>Limitations:</b> Small dataset, some missing values, limited features.
+
+<b>Next Steps:</b>
+
+<ol>
+
+     • Increase dataset size
+
+     • Fine-tune hyperparameters for better performance
+
+     • Consider deployment via a user-friendly interface for real-time predictions
+</ol>
