@@ -10,9 +10,9 @@
 <h2>3. Dataset Overview</h2>
 <ol>
   
-  • Number of Records: [e.g., 400 rows]
+  • Number of Records:400
 
-  • Number of Features: [e.g., 25 features]
+  • Number of Features:38
 
   • Target Variable: class (CKD / Non-CKD)
 
