@@ -46,9 +46,9 @@
 
    • Correlation analysis to identify important features
 
-   • Histograms for numeric features (age, bp, sugar, etc.)
+   • Histograms for numeric features 
 
-   • Bar plots for categorical variables (rbc, pc)
+   • Bar plots for categorical variables 
 
    • Heatmap to visualize correlations
    
